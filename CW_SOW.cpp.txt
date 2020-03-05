@@ -1,0 +1,2 @@
+C:\Users\j3lly\Documents\Unreal Projects\CW_SOW\Intermediate\Build\Win64\UE4Editor\Development\CW_SOW\Definitions.CW_SOW.h
+C:\Users\j3lly\Documents\Unreal Projects\CW_SOW\Source\CW_SOW\CW_SOW.h

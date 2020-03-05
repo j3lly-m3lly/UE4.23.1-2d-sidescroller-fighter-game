@@ -1,0 +1,3 @@
+C:\Users\j3lly\Documents\Unreal Projects\CW_SOW\Source\CW_SOW\CW_SOW.Build.cs
+C:\Users\j3lly\Documents\Unreal Projects\CW_SOW\Source\CW_SOW.Target.cs
+C:\Users\j3lly\Documents\Unreal Projects\CW_SOW\Source\CW_SOWEditor.Target.cs
